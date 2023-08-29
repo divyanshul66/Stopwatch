@@ -11,3 +11,4 @@ ABOUT THIS PROJECT-:
   4. This stopwatch represents the time in HH:MM:SS:MS (hour:minute:second:milisecond) format, making it easy to keep track of our time.
   5. The functionalities of Start, Stop, Reset, are accessible by a click of a button.
 ![Stopwatch](https://user-images.githubusercontent.com/119027160/234164323-a855d15d-4e02-45cf-bdfc-30a1403072fb.png)
+![Screenshot (295)](https://github.com/divyanshul66/Stopwatch/assets/119027160/a03b1fc3-2e1f-4ad9-ad00-4f93c2b6c296)
